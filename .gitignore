@@ -130,6 +130,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+jargonai.json
 env/
 venv/
 ENV/

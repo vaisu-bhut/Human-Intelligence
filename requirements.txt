@@ -1,4 +1,7 @@
-google-adk
-google-generativeai==0.8.5
-python-dotenv==1.1.0
-aiohttp>=3.8.0  # For future web server
+google-cloud-storage
+google-cloud-documentai
+google-generativeai
+python-dotenv
+PyPDF2
+python-docx
+python-dateutil
